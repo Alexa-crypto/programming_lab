@@ -1,0 +1,9 @@
+Android
+IOS
+Snapdragon 732G
+MediaTek G90T
+Adreno 610
+Mali 430
+Aple A13
+plastic
+glass

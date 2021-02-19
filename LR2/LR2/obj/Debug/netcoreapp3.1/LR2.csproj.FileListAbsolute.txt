@@ -1,0 +1,13 @@
+D:\Progect\LR2\LR2\bin\Debug\netcoreapp3.1\LR2.exe
+D:\Progect\LR2\LR2\bin\Debug\netcoreapp3.1\LR2.deps.json
+D:\Progect\LR2\LR2\bin\Debug\netcoreapp3.1\LR2.runtimeconfig.json
+D:\Progect\LR2\LR2\bin\Debug\netcoreapp3.1\LR2.runtimeconfig.dev.json
+D:\Progect\LR2\LR2\bin\Debug\netcoreapp3.1\LR2.dll
+D:\Progect\LR2\LR2\bin\Debug\netcoreapp3.1\LR2.pdb
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.csprojAssemblyReference.cache
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.AssemblyInfoInputs.cache
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.AssemblyInfo.cs
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.csproj.CoreCompileInputs.cache
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.dll
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.pdb
+D:\Progect\LR2\LR2\obj\Debug\netcoreapp3.1\LR2.genruntimeconfig.cache
