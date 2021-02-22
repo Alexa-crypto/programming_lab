@@ -1,0 +1,9 @@
+D:\Progect\LR6\LR6\bin\Debug\netcoreapp3.1\LR6lib.deps.json
+D:\Progect\LR6\LR6\bin\Debug\netcoreapp3.1\LR6lib.dll
+D:\Progect\LR6\LR6\bin\Debug\netcoreapp3.1\LR6lib.pdb
+D:\Progect\LR6\LR6\obj\Debug\netcoreapp3.1\LR6lib.AssemblyInfoInputs.cache
+D:\Progect\LR6\LR6\obj\Debug\netcoreapp3.1\LR6lib.AssemblyInfo.cs
+D:\Progect\LR6\LR6\obj\Debug\netcoreapp3.1\LR6lib.csproj.CoreCompileInputs.cache
+D:\Progect\LR6\LR6\obj\Debug\netcoreapp3.1\LR6lib.dll
+D:\Progect\LR6\LR6\obj\Debug\netcoreapp3.1\LR6lib.pdb
+D:\Progect\LR6\LR6\obj\Debug\netcoreapp3.1\LR6lib.csprojAssemblyReference.cache
