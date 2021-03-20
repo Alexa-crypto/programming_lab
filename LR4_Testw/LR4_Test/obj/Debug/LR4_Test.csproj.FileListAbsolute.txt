@@ -1,0 +1,11 @@
+D:\Progect\LR4_Test\LR4_Test\bin\Debug\LR4_Test.exe.config
+D:\Progect\LR4_Test\LR4_Test\bin\Debug\LR4_Test.exe
+D:\Progect\LR4_Test\LR4_Test\bin\Debug\LR4_Test.pdb
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.csprojAssemblyReference.cache
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.fMain.resources
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.Properties.Resources.resources
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.csproj.GenerateResource.cache
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.csproj.CoreCompileInputs.cache
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.exe
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.pdb
+D:\Progect\LR4_Test\LR4_Test\obj\Debug\LR4_Test.fTown.resources
