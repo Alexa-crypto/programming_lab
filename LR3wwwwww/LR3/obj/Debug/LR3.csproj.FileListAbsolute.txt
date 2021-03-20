@@ -1,0 +1,10 @@
+D:\Progect\LR3\LR3\bin\Debug\LR3.exe.config
+D:\Progect\LR3\LR3\bin\Debug\LR3.exe
+D:\Progect\LR3\LR3\bin\Debug\LR3.pdb
+D:\Progect\LR3\LR3\obj\Debug\LR3.csprojAssemblyReference.cache
+D:\Progect\LR3\LR3\obj\Debug\LR3.Form1.resources
+D:\Progect\LR3\LR3\obj\Debug\LR3.Properties.Resources.resources
+D:\Progect\LR3\LR3\obj\Debug\LR3.csproj.GenerateResource.cache
+D:\Progect\LR3\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+D:\Progect\LR3\LR3\obj\Debug\LR3.exe
+D:\Progect\LR3\LR3\obj\Debug\LR3.pdb
