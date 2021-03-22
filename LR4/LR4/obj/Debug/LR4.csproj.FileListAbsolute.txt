@@ -1,0 +1,11 @@
+D:\Progect\LR4\LR4\bin\Debug\LR4.exe.config
+D:\Progect\LR4\LR4\bin\Debug\LR4.exe
+D:\Progect\LR4\LR4\bin\Debug\LR4.pdb
+D:\Progect\LR4\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+D:\Progect\LR4\LR4\obj\Debug\LR4.fMain.resources
+D:\Progect\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+D:\Progect\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+D:\Progect\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\Progect\LR4\LR4\obj\Debug\LR4.exe
+D:\Progect\LR4\LR4\obj\Debug\LR4.pdb
+D:\Progect\LR4\LR4\obj\Debug\LR4.fAddPhone.resources
