@@ -1,0 +1,11 @@
+D:\Progect\LR5_test_2\LR5_test_2\bin\Debug\LR5_test_2.exe.config
+D:\Progect\LR5_test_2\LR5_test_2\bin\Debug\LR5_test_2.exe
+D:\Progect\LR5_test_2\LR5_test_2\bin\Debug\LR5_test_2.pdb
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.csprojAssemblyReference.cache
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.fMain.resources
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.Properties.Resources.resources
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.csproj.GenerateResource.cache
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.csproj.CoreCompileInputs.cache
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.exe
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.pdb
+D:\Progect\LR5_test_2\LR5_test_2\obj\Debug\LR5_test_2.fTown.resources
