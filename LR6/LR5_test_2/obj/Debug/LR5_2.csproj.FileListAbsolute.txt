@@ -1,0 +1,11 @@
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_2.csprojAssemblyReference.cache
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_test_2.Properties.Resources.resources
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_2.csproj.GenerateResource.cache
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_2.csproj.CoreCompileInputs.cache
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_test_2.exe
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_test_2.pdb
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_2.fAddPhone.resources
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\obj\Debug\LR5_2.fMain.resources
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\bin\Debug\LR5_test_2.exe.config
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\bin\Debug\LR5_test_2.exe
+C:\Users\chief\Desktop\LR5_2\LR5_test_2\bin\Debug\LR5_test_2.pdb
